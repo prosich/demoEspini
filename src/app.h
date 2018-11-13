@@ -1,1 +1,0 @@
-char app[]="demo";
