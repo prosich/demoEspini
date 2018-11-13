@@ -1,1 +1,1 @@
-char app[]="test";
+char app[]="demo";
