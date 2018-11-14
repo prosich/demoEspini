@@ -1,12 +1,12 @@
-// Contraseñas wifi. Copiar como wifis.h
+char otasrv[]="ota.mi.domi.nio";
+char logsrv[]="syslog.mi.domi.nio";
 
 ESP8266WiFiMulti wifis() {
   ESP8266WiFiMulti wm;
-
   wm.addAP("RM24","xxxxx");
   wm.addAP("MIAP","xxxxx");
   wm.addAP("RMUP","xxxxx");
-
   return(wm);
   }
+
 

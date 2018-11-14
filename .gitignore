@@ -7,3 +7,5 @@
 src/ver.h
 src/ver.txt
 src/servers.h
+src/wifis.h
+src/config.h

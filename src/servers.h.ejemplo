@@ -1,4 +1,0 @@
-// Copiar con nombre servers.h
-
-char otasrv[]="ota.mi.domi.nio"
-char logsrv[]="syslog.mi.domi.nio"

@@ -1,6 +1,5 @@
 #include <Espini.h>
-#include "wifis.h"
-#include "servers.h"
+#include "config.h"
 #include "ver.h"
 
 void setup() { 
