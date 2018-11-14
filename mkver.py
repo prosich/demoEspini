@@ -1,8 +1,8 @@
-# Genera un numero de versión (en realidad, la fecha)
+# Genera un numero de version (en realidad, la fecha)
 # para embeber en el firmware al objeto de comparar
-# en el momento de una actualización OTA.
+# en el momento de una actualizacion OTA.
 #
-# Se ejecuta como paso previo a la compilación
+# Se ejecuta como paso previo a la compilacion
 # (indicado en platform.ini)
 
 import time

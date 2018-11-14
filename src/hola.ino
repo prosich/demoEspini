@@ -3,8 +3,8 @@
 #include "ver.h"
 
 void setup() { 
-  Espini cosa(wifis(),"demo",ver,"ota.mi.domi.nio","syslog.mi.domi.nio");
-  cosa.log(ver);
+  Espini cosa(wifis(),"demo",ver,"ota.rosich.es","syslog.rosich.es");
+  cosa.log("hola");
   delay(300e3);
   ESP.reset();
 }
