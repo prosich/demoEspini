@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <Espini.h>
 #include "config.h"
 #include "ver.h"
